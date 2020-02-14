@@ -37,3 +37,8 @@ print(test_set_rmse)
 print(test_set_r2)
 ```
 
+### To Dummy variables
+
+```python
+X = pd.get_dummies(data=X)
+```
