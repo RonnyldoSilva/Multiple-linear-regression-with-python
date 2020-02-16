@@ -2,7 +2,7 @@
 
 First, we need to load in our dataset. We're using the Scikit-Learn library, and it comes prepackaged with some sample datasets. The dataset we'll be using is the Boston Housing Dataset. The dataset has many different features about homes in the Boston area, like house size, crime rate, building age, etc. The goal is to predict the price of the house based on these features.
 
-Here are all the imports we need:
+Here are all the imports we need: 
 
 ```python
 import numpy as np
